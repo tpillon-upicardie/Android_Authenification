@@ -1,4 +1,4 @@
-package com.tpillon.authentapp.View.Activities;
+package com.tpillon.authentapp.View.Activities.Authent;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;

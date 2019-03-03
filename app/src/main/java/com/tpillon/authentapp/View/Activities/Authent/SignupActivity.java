@@ -1,4 +1,4 @@
-package com.tpillon.authentapp.View.Activities;
+package com.tpillon.authentapp.View.Activities.Authent;
 
 import android.app.Activity;
 import android.content.Intent;
@@ -12,6 +12,7 @@ import android.widget.Toast;
 import com.google.firebase.auth.FirebaseAuth;
 import com.tpillon.authentapp.Logic.SignUpCompleteListener;
 import com.tpillon.authentapp.R;
+import com.tpillon.authentapp.View.Activities.MainActivity;
 
 /**
  * activity to register new user

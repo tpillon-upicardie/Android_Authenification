@@ -6,7 +6,7 @@ import android.support.annotation.NonNull;
 
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.auth.FirebaseUser;
-import com.tpillon.authentapp.View.Activities.SignupActivity;
+import com.tpillon.authentapp.View.Activities.Authent.SignupActivity;
 
 /**
  * listener called during logout

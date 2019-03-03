@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "283922452821",
+    "firebase_url": "https://authentapp-924ed.firebaseio.com",
+    "project_id": "authentapp-924ed",
+    "storage_bucket": "authentapp-924ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283922452821:android:e1ab5bb3a35d0dee",
+        "android_client_info": {
+          "package_name": "com.tpillon.authentapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "283922452821-pfa0ot9dvbptcmo84ck9ipfjruitsv1d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4CUJI4qS3wamLIE3rU5f3yOk9U6eSf_I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
